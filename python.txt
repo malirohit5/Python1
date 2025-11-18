@@ -1,0 +1,26 @@
+variable: variable is name that holds data.
+Boolean ,string,numbers. 
+ex : age = 25,height = 176;
+name = "abc"
+
+
+
+Rules for variable names:
+
+Must start with a letter or underscore (_)
+
+Cannot start with a number
+
+Cannot contain spaces
+
+Case-sensitive (age and Age are different)
+
+
+Loops
+
+Loops are used to repeat tasks.
+
+For loop
+while loop
+
+
